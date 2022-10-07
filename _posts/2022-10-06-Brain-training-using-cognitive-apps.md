@@ -17,7 +17,7 @@ Users who trained with the games improved regardless of age in terms of scores a
 
 According to the World Health Organization (WHO), the world population aged over 60 years will have doubled in number by 2050, with an estimated total of 2 billion people. `WHO.Ageing and Health(WHO,2018)`
 
-![table1](/blog/assets/table1.png)
+![table1](/devblog/assets/table1.png)
 
 Currently it is estimated that 50 million are living with dementia worldwide and nearly 10 million new cases occur every year, representing a serious public health problem
 
