@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Puzzle-Research"
+title:  "Crossword Puzzle Dementia Research"
 date:   2022-10-11 20:13:05 -0700
 categories: research
 ---
