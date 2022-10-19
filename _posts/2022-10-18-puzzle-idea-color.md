@@ -41,6 +41,8 @@ People with mild cognitive impairment, Alzheimer’s or another dementia, on the
 
 The test has been administered across several languages and consistently been shown to be effective in identifying executive functioning impairments.
 
+[strooptest_dementia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2946107/)
+
 ---
 
 ### Sudoku + Color puzzle
@@ -69,3 +71,5 @@ Post hoc analysis showed a significant increase in oxyhemoglobin concentrations 
 #### Conclusion
 
 Both the medial and lateral regions of PFC are activated during Sudoku task. However, the medial regions of PFC play a differential role, especially when we consider searching and selecting the heuristic rules. Thus, Sudoku may be used for cognitive remediation training in neuropsychiatric disorders involving PFC.
+
+[Sudoku_brainhealth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7718610/)
