@@ -2,7 +2,7 @@
 layout: post
 title:  "Color Puzzle"
 date:   2022-10-18 20:13:05 -0700
-categories: dev
+categories: research
 ---
 
 ## Color puzzle ideas
