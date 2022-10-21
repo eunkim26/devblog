@@ -7,6 +7,7 @@ categories: research
 
 ## Stroop
 
+
 >### click on the color of the word
 
 ----
@@ -56,3 +57,12 @@ categories: research
 ![level2](/devblog/devblog/assets/Strooplevel2.png)
 
 - The level of the puzzle can be manipulated through given time and the number of color blocks.
+=======
+### click on the color of the word
+
+----
+
+#### Logo:
+
+![Strooplogo](/devblog/assets/stroopLogo.png)
+
