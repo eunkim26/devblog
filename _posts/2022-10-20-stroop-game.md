@@ -13,13 +13,13 @@ categories: research
 
 #### Logo
 
-![StroopLogo](/devblog/devblog/assets/StroopLogo.png)
+![StroopLogo](/devblog/assets/StroopLogo.png)
 
 ----
 
 #### Basic Information
 
-![BasicInfo](/devblog/devblog/assets/BasicinfoStroop.png)
+![BasicInfo](/devblog/assets/BasicinfoStroop.png)
 
 - The screen is composed of a word with discordant meaning and color.
 
@@ -33,7 +33,7 @@ categories: research
 
 #### Success Case
 
-![Success](/devblog/devblog/assets/StroopSuccess.png)
+![Success](/devblog/assets/StroopSuccess.png)
 
 - When the user finds the color block that matches the actual color of the given word, one can go to the next round
 
@@ -41,7 +41,7 @@ categories: research
 
 #### Fail Case
 
-![Fail](/devblog/devblog/assets/StroopFail.png)
+![Fail](/devblog/assets/StroopFail.png)
 
 - User fails if fails to find the color block that matches the color of the word before the timer ends.
 
@@ -51,16 +51,8 @@ categories: research
 
 #### Level of Game
 
-![level1](/devblog/devblog/assets/Strooplevel1.png)
+![level1](/devblog/assets/Strooplevel1.png)
 
-![level2](/devblog/devblog/assets/Strooplevel2.png)
+![level2](/devblog/assets/Strooplevel2.png)
 
 - The level of the puzzle can be manipulated through given time and the number of color blocks.
-
-### click on the color of the word
-
-----
-
-#### Logo:
-
-![Strooplogo](/devblog/assets/stroopLogo.png)
