@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Mondrian Puzzle tutorial"
+title:  "Mondriaan's Calculator Puzzle tutorial"
 date:   2022-10-18 20:13:05 -0700
 categories: research
 ---
 
-### Mondrian's calculator
+### Mondriaan's calculator
 
 `Tutorial and requirements`
 
